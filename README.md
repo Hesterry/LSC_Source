@@ -1,4 +1,6 @@
-﻿### This is LSC's source code! If you want the pre-compiled app, please go to this page: https://github.com/Hesterry/LSC
+### This is LSC's source code! If you want the pre-compiled app, please go to this page: https://github.com/Hesterry/LSC
+
+### If you intend to release your own version of LSC, in whole or part, please provide credit by linking to this page. Thank you!
 
 
 ### How Build the Project Files - Requires Unreal Engine v4.20 and Visual Studio
